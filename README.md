@@ -3,9 +3,10 @@
 ---
 # Manipulação de documentos Chave-Valor no Redis 👨‍💻
 
+Atividade relacionada a matéria de **Banco de dados não relacional** ministrada pelo professor **Diogo Branquinho.**
+
 ---
 
-Atividade relacionada a matéria de **Banco de dados não relacional** ministrada pelo professor **Diogo Branquinho.**
 
 </div>
 
